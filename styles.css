@@ -1,11 +1,12 @@
 body {
 	background: black;
-	font-family: "Brush Script MT", cursive;
+	font-family: 'Libre Baskerville', serif;
+	font-family: 'Mulish', sans-serif;
 	font-size: 15px;
 }
 .postcard {
 	width: 400px;
-	height: 340px;
+	height: 300px;
 	background: white;
 	margin: auto;
 }
